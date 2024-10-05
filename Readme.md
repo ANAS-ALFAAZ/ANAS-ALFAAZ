@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on [https://github.com/ANAS-ALFAAZ/Newsfusion](https://github.com/ANAS-ALFAAZ/Newsfusion)
+- 👯 I’m looking to collaborate on [https://github.com/ANAS-ALFAAZ/Newsfusion](https://github.com/ANAS-ALFAAZ/NewsFusion)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANAS-ALFAAZ?tab=repositories](https://github.com/ANAS-ALFAAZ?tab=repositories)
 
