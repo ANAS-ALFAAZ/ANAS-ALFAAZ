@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Anas</h1>
 <h3 align="center">A passionate Computer Science Undergraduate at Delhi Technological University, Delhi, India</h3>
 
-- 🔭 I’m currently working on **NewsFusion**
+- 🔭 I’m currently working on my project **NewsFusion**
 
 - 🌱 I’m currently learning **MERN Stack**
 
